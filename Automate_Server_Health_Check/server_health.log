@@ -1,0 +1,121 @@
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: id,
+Memory Usage:
+Used: 564Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: id,
+Memory Usage:
+Used: 565Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.5, Idle: 99.5
+Memory Usage:
+Used: 565Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: id,
+Memory Usage:
+Used: 565Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: 98.0
+Memory Usage:
+Used: 564Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+/bin/sh: 1: /home/devops/Bash_Scripts_Scenario/Automate_Server_Health_Checkserver_health.sh: not found
+Checking Server Health...
+CPU Usage:
+Used: 0.3, Idle: 99.4
+Memory Usage:
+Used: 562Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: 99.9
+Memory Usage:
+Used: 563Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: id,
+Memory Usage:
+Used: 563Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: id,
+Memory Usage:
+Used: 565Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: 97.6
+Memory Usage:
+Used: 565Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: 97.6
+Memory Usage:
+Used: 564Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: id,
+Memory Usage:
+Used: 565Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: 97.8
+Memory Usage:
+Used: 565Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: 97.6
+Memory Usage:
+Used: 561Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
+Checking Server Health...
+CPU Usage:
+Used: 0.0, Idle: 99.2
+Memory Usage:
+Used: 569Mi, Free: 3.9Gi
+Disk Usage:
+/dev/sda2       16%
+[ Health Check Completed! ]
