@@ -87,8 +87,10 @@ Disk Usage:
 /dev/sda2       16%
 [ Health Check Completed! ]
 ```
-![output](<Screenshot (247).png>)
 ---
+
+![Screenshot (247)](https://github.com/user-attachments/assets/ce2f96fc-1499-448e-8dd0-ba187290f432)
+
 
 ## 🐛 Known Issue
 
